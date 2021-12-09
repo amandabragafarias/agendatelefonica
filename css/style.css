@@ -1,0 +1,58 @@
+body{background-image: url(img/telefone.jpg);
+ 
+}
+.inserir {
+background-image: url(img/tablet2.png);
+	   background-color: white;
+    height: 946px;
+    width: 645px;
+   border-radius: 15px;
+    margin-top: 40px;
+    margin-left:340px;
+
+	}
+  .inserir2 {
+background-image: url(img/blue.jpg);
+    height: 350px;
+    width: 200px;
+    border-radius: 15px;
+    margin-top: -800px;
+    margin-left:400px;
+
+  }
+  .excluir {
+background-image: url(img/blue.jpg);
+     
+    height: 250px;
+    width: 200px;
+   border-radius: 15px;
+    margin-top: 100px;
+    margin-left:400px;
+
+  }
+  .buscar {
+background-image: url(img/blue.jpg);
+     
+    height: 250px;
+    width: 200px;
+   border-radius: 15px;
+    margin-top: -250px;
+    margin-left:730px;
+
+  }
+  .atualizar {
+background-image: url(img/blue.jpg);
+     
+    height: 350px;
+    width: 200px;
+   border-radius: 15px;
+    margin-top: -700px;
+    margin-left:730px;
+
+  }
+  INPUT.todos{
+   border-radius: 10px;
+
+  }
+  
+  
